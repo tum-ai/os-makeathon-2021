@@ -11,6 +11,6 @@ We've got some Jupyter-Notebooks for you in this repo!😊 They should serve as 
 Content:
 * Intro (Notebook 1): Some Theory on transfer learning || General info on notebooks
 * NLP (Notebook 2): Information extraction || Text classification || Text generation || Notebook-UIs
-* Computer Vision (Notebook 3): Image classification || Semantic segmentation || Object detection || Instance segmentation
+* Computer Vision (Notebook 3): Image classification || Semantic segmentation || Object detection 
 * Regression (Notebook 4): Decision trees & Random forests
 
